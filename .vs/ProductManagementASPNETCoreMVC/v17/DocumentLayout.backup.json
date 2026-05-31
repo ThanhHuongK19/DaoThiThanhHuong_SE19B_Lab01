@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huong\\Documents\\PRN222\\Lab_01\\ProductManagementASPNETCoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02874252-108C-4B76-BD8A-8926D7227C83}|ProductManagementMVC\\ProductManagementMVC.csproj|c:\\users\\huong\\documents\\prn222\\lab_01\\productmanagementaspnetcoremvc\\productmanagementmvc\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02874252-108C-4B76-BD8A-8926D7227C83}|ProductManagementMVC\\ProductManagementMVC.csproj|solutionrelative:productmanagementmvc\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC498572-5A18-41C4-9543-4CB241BB6E04}|Services\\Services.csproj|c:\\users\\huong\\documents\\prn222\\lab_01\\productmanagementaspnetcoremvc\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC498572-5A18-41C4-9543-4CB241BB6E04}|Services\\Services.csproj|solutionrelative:services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02874252-108C-4B76-BD8A-8926D7227C83}|ProductManagementMVC\\ProductManagementMVC.csproj|c:\\users\\huong\\documents\\prn222\\lab_01\\productmanagementaspnetcoremvc\\productmanagementmvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02874252-108C-4B76-BD8A-8926D7227C83}|ProductManagementMVC\\ProductManagementMVC.csproj|solutionrelative:productmanagementmvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02874252-108C-4B76-BD8A-8926D7227C83}|ProductManagementMVC\\ProductManagementMVC.csproj|c:\\users\\huong\\documents\\prn222\\lab_01\\productmanagementaspnetcoremvc\\productmanagementmvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02874252-108C-4B76-BD8A-8926D7227C83}|ProductManagementMVC\\ProductManagementMVC.csproj|solutionrelative:productmanagementmvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02874252-108C-4B76-BD8A-8926D7227C83}|ProductManagementMVC\\ProductManagementMVC.csproj|c:\\users\\huong\\documents\\prn222\\lab_01\\productmanagementaspnetcoremvc\\productmanagementmvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02874252-108C-4B76-BD8A-8926D7227C83}|ProductManagementMVC\\ProductManagementMVC.csproj|solutionrelative:productmanagementmvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02874252-108C-4B76-BD8A-8926D7227C83}|ProductManagementMVC\\ProductManagementMVC.csproj|c:\\users\\huong\\documents\\prn222\\lab_01\\productmanagementaspnetcoremvc\\productmanagementmvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02874252-108C-4B76-BD8A-8926D7227C83}|ProductManagementMVC\\ProductManagementMVC.csproj|solutionrelative:productmanagementmvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02874252-108C-4B76-BD8A-8926D7227C83}|ProductManagementMVC\\ProductManagementMVC.csproj|c:\\users\\huong\\documents\\prn222\\lab_01\\productmanagementaspnetcoremvc\\productmanagementmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02874252-108C-4B76-BD8A-8926D7227C83}|ProductManagementMVC\\ProductManagementMVC.csproj|solutionrelative:productmanagementmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Huong\\Documents\\PRN222\\Lab_01\\ProductManagementASPNETCoreMVC\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Huong\\Documents\\PRN222\\Lab_01\\ProductManagementASPNETCoreMVC\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:06:54.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huong\\Documents\\PRN222\\Lab_01\\ProductManagementASPNETCoreMVC\\ProductManagementMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementMVC\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Huong\\Documents\\PRN222\\Lab_01\\ProductManagementASPNETCoreMVC\\ProductManagementMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "ProductManagementMVC\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-31T13:59:05.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huong\\Documents\\PRN222\\Lab_01\\ProductManagementASPNETCoreMVC\\ProductManagementMVC\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementMVC\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huong\\Documents\\PRN222\\Lab_01\\ProductManagementASPNETCoreMVC\\ProductManagementMVC\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ProductManagementMVC\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-31T13:52:43.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huong\\Documents\\PRN222\\Lab_01\\ProductManagementASPNETCoreMVC\\ProductManagementMVC\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementMVC\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Huong\\Documents\\PRN222\\Lab_01\\ProductManagementASPNETCoreMVC\\ProductManagementMVC\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "ProductManagementMVC\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-31T13:50:21.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Huong\\Documents\\PRN222\\Lab_01\\ProductManagementASPNETCoreMVC\\ProductManagementMVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductManagementMVC\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Huong\\Documents\\PRN222\\Lab_01\\ProductManagementASPNETCoreMVC\\ProductManagementMVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductManagementMVC\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswH8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T13:45:22.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huong\\Documents\\PRN222\\Lab_01\\ProductManagementASPNETCoreMVC\\ProductManagementMVC\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementMVC\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Huong\\Documents\\PRN222\\Lab_01\\ProductManagementASPNETCoreMVC\\ProductManagementMVC\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "ProductManagementMVC\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-31T13:45:06.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Huong\\Documents\\PRN222\\Lab_01\\ProductManagementASPNETCoreMVC\\ProductManagementMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ProductManagementMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Huong\\Documents\\PRN222\\Lab_01\\ProductManagementASPNETCoreMVC\\ProductManagementMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ProductManagementMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T13:27:04.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

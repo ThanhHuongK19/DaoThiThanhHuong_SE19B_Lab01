@@ -1,0 +1,28 @@
+﻿@model BusinessObjects.Models.Product
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<h1>Product Details</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">Product Name</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.ProductName)</dd>
+
+        <dt class="col-sm-3">Unit Price</dt>
+        <dd class="col-sm-9">@string.Format("{0:C}", Model.UnitPrice)</dd>
+
+        <dt class="col-sm-3">Units In Stock</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.UnitsInStock)</dd>
+
+        <dt class="col-sm-3">Category Name</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.Category.CategoryName)</dd>
+    </dl>
+</div>
+<div class="mt-4">
+    <a asp-action="Edit" asp-route-id="@Model?.ProductId" class="btn btn-warning">Edit</a> |
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>
+
